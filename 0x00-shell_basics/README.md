@@ -1,1 +1,1 @@
-print the oath of the current directory
+shell basics
